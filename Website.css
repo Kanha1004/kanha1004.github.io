@@ -1,0 +1,70 @@
+/* body{
+    background-color: rgb(85, 83, 83);
+    color: rgb(152, 152, 154);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+} */
+#submit-button{
+    background-color: rgb(0, 145, 255);
+    border-radius:  5%;
+    padding: 10px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+#submit-button:hover{
+    background-color: rgb(29, 97, 149);
+    border-radius:  5%;
+    padding: 10px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+
+#mysearch{
+    background-color: gray;
+    border-radius:5%;
+    width:90%;
+    text-align: center;
+    color:black;
+}
+#new-goal-Submit:hover{
+background-color:rgb(12, 124, 12);
+border-width: 0;
+padding:10px;
+border-radius: 5%;
+width: 50%;
+text-align: center;
+color: white;
+}
+
+#new-goal-Submit{
+    background-color:rgb(29, 200, 29);
+    border-width: 0;
+    padding:10px;
+    border-radius: 5%;
+    width: 50%;
+    text-align: center;
+    color: white;
+    }
+
+#delete-previous-goal:hover{
+background-color:rgb(162, 52, 52);
+border-width: 0;
+padding: 10px;
+border-radius: 5%;
+width: 50%;
+text-align: center;
+color: white;
+}
+#delete-previous-goal{
+    background-color:rgb(237, 38, 38);
+    border-width: 0;
+    padding: 10px;
+    border-radius: 5%;
+    width: 50%;
+    text-align: center;
+    color: white;
+    }
+
